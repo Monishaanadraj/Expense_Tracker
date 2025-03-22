@@ -1,0 +1,116 @@
+.dashboard_container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    /* background: #1e1e2f; */
+    /* border-radius: 10px; */
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); */
+    color: #fff;
+    text-align: center;
+    height: 100%;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.top_section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 50px;
+    background: #1e1e2f;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    text-align: center;
+    height: 100%;
+}
+
+label {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.dropdown {
+    width: 200px;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background: #29293d;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+}
+
+.dropdown option {
+    background: #1e1e2f;
+    color: #fff;
+}
+
+.dropdown:disabled {
+    background: #555;
+    cursor: not-allowed;
+}
+
+.date_picker {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.date_input {
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    background: #2c2c3d;
+    color: white;
+    cursor: pointer;
+}
+
+.date_input:disabled {
+    background: #555;
+    cursor: not-allowed;
+}
+
+.dwnld_btn {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 50px;
+}
+
+.download_btn {
+    background: #007bff;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.download_btn:hover {
+    background: #0056b3;
+    transform: scale(1.05);
+}
+
+.download_btn:disabled {
+    background: #555;
+    cursor: not-allowed;
+}
+
+.warning {
+    color: #ff4d4d;
+    font-size: 14px;
+    font-weight: bold;
+}

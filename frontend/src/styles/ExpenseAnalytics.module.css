@@ -1,0 +1,59 @@
+.analytics_container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 50PX;
+  padding: 20px;
+}
+
+.analytics_container h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.welcome_section {
+  background: #1e1e2f;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.welcome_sec{
+  text-align: center;
+}
+
+.login_button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #ffcc00;
+  color: #121212;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.login_button:hover {
+  background: #ffd700;
+}
+
+.chart_container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.chart {
+  background: #1e1e2f;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  width: 100%;
+  max-width: none;
+}
