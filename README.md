@@ -6,6 +6,7 @@ Features
 ✅ User authentication (signup/login)  
 ✅ Add, edit, delete expenses  
 ✅ Categorize expenses (food, travel, shopping, etc.)  
+✅ Real-time Dashboard – Visual representation of expenses.
 ✅ View monthly,quarterly, yearly, or custom date ranges expense reports 📊  
 
 Tech Stack  
