@@ -58,6 +58,3 @@ DB_NAME=expense_tracker
 
 🤝 Contributing
 Feel free to contribute by opening a pull request.  
-
-📜 License
-This project is open-source and available under the MIT License.  
