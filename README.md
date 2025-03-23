@@ -56,7 +56,7 @@ DB_PASSWORD=your_db_password
 DB_NAME=expense_tracker
 ```
 
-**Application preview UI**
+**Application UI preview**
 
 **Before User Login**
 
