@@ -55,6 +55,3 @@ DB_USER=your_db_username
 DB_PASSWORD=your_db_password
 DB_NAME=expense_tracker
 ```
-
-🤝 Contributing
-Feel free to contribute by opening a pull request.  
