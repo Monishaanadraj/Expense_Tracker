@@ -3,11 +3,11 @@
 A full-stack expense tracking website built using React.js, Node.js, MySQL, and Express.js.  
 
 **Features**  
-✅ User authentication (signup/login)  
-✅ Add, edit, delete expenses  
+✅ User authentication (signup/login).  
+✅ Add, edit, delete expenses.  
 ✅ Categorize expenses (food, travel, shopping, etc.)  
-✅ Real-time Dashboard – Visual representation of expenses.
-✅ View monthly,quarterly, yearly, or custom date ranges expense reports 📊  
+✅ Real-time Dashboard – Visual representation of expenses.  
+✅ View monthly,quarterly, yearly, or custom date ranges expense reports.📊  
 
 Tech Stack  
 Frontend (React.js)
@@ -19,10 +19,9 @@ Frontend (React.js)
 Backend (Node.js & Express.js)
 - Node.js  
 - Express.js  
-- MySQL  
 
 Database
-- MySQL (db4free.net or Planetscale)  
+- MySQL
 
 
 🔧 Installation & Setup  
